@@ -1,0 +1,71 @@
+ a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0px 0px 10px 0;
+    font-size: 15pt;
+    position: relative;
+}
+
+
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    color: white;
+    float: right;
+    padding-right: 15px;
+    flex-direction: row-reverse;
+    
+}
+
+
+.valorant {
+    color: #fd3500;
+}
+
+
+.descricao {
+    color: white;
+    font-size: 30px;
+    
+}
+
+
+.phoenix img {
+    border-radius: 10px;
+    display: flex;
+    width: 869px;
+    height: 550px;
+    max-width: 100%;
+    height: auto; 
+}
+
+
+.phoenix {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    color: white;
+    font-size: 30px;
+    flex-direction: column;
+}
+
+
+::-webkit-scrollbar{
+    width: 5px;
+}
+
+
+::-webkit-scrollbar-thumb {
+    background-color: tomato;
+}
+
+
+
+
+
+
+
+
